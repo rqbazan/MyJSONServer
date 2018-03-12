@@ -20,9 +20,7 @@
             "lng": "150.836090",
             "distance": "51.30359905145628",
             "times": [
-                { "id": "key-for-Lun - Vie 10:00 am - 8:00 pm", "text": "Lun - Vie 10:00 am - 8:00 pm" },
-                { "id": "key-for-Sáb 9:00 am - 8:00 pm", "text": "Sáb 9:00 am - 8:00 pm" },
-                { "id": "key-for-Dom 10:00 am - 2:00 pm", "text": "Dom 10:00 am - 2:00 pm" }
+                { "id": "key-for-Lun - Vie 10:00 am - 8:00 pm", "text": "Lun - Vie 10:00 am - 8:00 pm" }
               ]
         },{
             "id": "3",
@@ -44,9 +42,7 @@
             "lng": "151.183609",
             "distance": "56.05760641917",
             "times": [
-                { "id": "key-for-Lun - Vie 10:00 am - 8:00 pm", "text": "Lun - Vie 10:00 am - 8:00 pm" },
-                { "id": "key-for-Sáb 9:00 am - 8:00 pm", "text": "Sáb 9:00 am - 8:00 pm" },
-                { "id": "key-for-Dom 10:00 am - 2:00 pm", "text": "Dom 10:00 am - 2:00 pm" }
+                { "id": "key-for-Lun - Vie 10:00 am - 8:00 pm", "text": "Lun - Vie 10:00 am - 8:00 pm" }
               ]
         },{
             "id": "5",
