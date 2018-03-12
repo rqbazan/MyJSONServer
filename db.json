@@ -8,9 +8,7 @@
             "lng": "151.235260",
             "distance": "52.762480400236754",
             "times": [
-                { "id": "key-for-Lun - Vie 10:00 am - 8:00 pm", "text": "Lun - Vie 10:00 am - 8:00 pm" },
-                { "id": "key-for-Sáb 9:00 am - 8:00 pm", "text": "Sáb 9:00 am - 8:00 pm" },
-                { "id": "key-for-Dom 10:00 am - 2:00 pm", "text": "Dom 10:00 am - 2:00 pm" }
+                { "id": "key-for-Lun - Vie 10:00 am - 8:00 pm", "text": "Lun - Vie 10:00 am - 8:00 pm" }
               ]
         },{
             "id": "2",
